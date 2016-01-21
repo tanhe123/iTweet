@@ -3,7 +3,12 @@
 <html lang="en">
 
 <body>
-This is home!
+
+<h1>This is home!</h1>
+
+<p>$greeting.name</p>
+
+
 </body>
 
 </html>
